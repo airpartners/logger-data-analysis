@@ -7,3 +7,6 @@ and the Raspberry Pi.
 It ran on the AC first floor with the `b` section attached to a HEPA filter
 cartridge and the `a` section filtering 3D printer adjacent air. The period was
 set to switch the valve the sensor sampled air from every 300 seconds.
+
+The [validation notebook](https://github.com/airpartners/logger-data-analysis/blob/main/2-2021-raspi-logging-experiment/logging-validation.ipynb)
+contains both codes and some frameworks around thinking about the data.
