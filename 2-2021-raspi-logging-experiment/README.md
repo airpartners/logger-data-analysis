@@ -11,3 +11,6 @@ set to switch the valve the sensor sampled air from every 300 seconds.
 The [validation notebook](https://github.com/airpartners/logger-data-analysis/blob/main/2-2021-raspi-logging-experiment/logging-validation.ipynb)
 contains both codes and some frameworks around thinking about the data, and the [data/](https://github.com/airpartners/logger-data-analysis/tree/main/2-2021-raspi-logging-experiment/data)
 folder contains raw CPC data, raw raspberry pi data, and combined CPC data.
+
+This [assumption test](https://docs.google.com/document/d/1KgzD9N7wyZChUH6Lpm-0_fw-JKv5bAS71hBBDCUG6JQ/edit?usp=sharing) provides additional context
+about this experiment and analysis as conducted in Spring 2021.
